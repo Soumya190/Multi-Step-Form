@@ -1,0 +1,206 @@
+.block h1 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  margin-top: 2rem;
+  text-align: left;
+  color: #082856;
+}
+
+.block p {
+  text-align: left;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  opacity: 0.3;
+  font-weight: 700;
+  margin-top: 0.5rem;
+}
+
+.Content1-container {
+  display: flex;
+  gap: 0.8rem;
+}
+
+.contain1 {
+  border-radius: 0.5rem;
+  height: 8rem;
+  width: 6.7rem;
+  border: 0.1rem solid #7872AD;
+  margin-top: 2rem;
+  background-color: #F8F9FE;
+}
+
+.Icon1 , .Icon2  , .Icon3{
+  margin-top: 0.9rem;
+  margin-left: 0.5rem;
+}
+
+.contain1 h5 , .contain2 h5 , .contain3 h5 {
+  font-size: 0.8rem;
+  color: #082856;
+  font-weight: 600;
+  margin-top: 1.7rem;
+  margin-left: 0.7rem;
+}
+
+.p1 , .p2, .p3 {
+  font-size: 0.8rem;
+  opacity: 0.4;
+  margin-left: 0.7rem;
+  font-weight: 500;
+}
+
+.contain2 {
+  border-radius: 0.5rem;
+  height: 8rem;
+  width: 6.7rem;
+  border: 0.001rem solid grey;
+  /* opacity: 0.3; */
+  margin-top: 2rem;
+}
+
+.contain3 {
+  border-radius: 0.5rem;
+  height: 8rem;
+  width: 6.7rem;
+  border: 0.001rem solid grey;
+  /* opacity: 0.3; */
+  margin-top: 2rem;
+}
+
+.toggle-switch {
+  display: flex;
+  gap:1.5rem;
+  background-color: #f0f0f0;
+  border-radius: 0.3rem;
+  margin-top: 2rem;
+  width: 22rem;
+  height: 2.3rem;
+}
+
+.toggle-container{
+  padding-left: 3.8rem;
+}
+
+.toggle-option {
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: color 0.3s;
+  color: #a6a6b0;
+  margin-top: 0.5rem;
+}
+
+.toggle-option.selected {
+  color: #001f5c;
+  /* margin-left: 4rem; */
+}
+
+.toggle-option.monthly-selected {
+  color: #001f5c;
+  font-weight: 600;
+  /* margin-left: 5.5rem; */
+}
+
+.toggle-option.yearly-selected {
+  color: #001f5c;
+  font-weight: 600;
+}
+
+.toggle-button {
+  position: relative;
+  width: 2rem;
+  height: 1.2rem;
+  background-color: #001f5c; /* Adjust this color to your theme */
+  border-radius: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-top: 0.5rem;
+}
+
+.toggle-circle {
+  position: absolute;
+  top: 0.2rem;
+  width: 0.8rem;
+  height: 0.8rem;
+  background-color: #fff;
+  border-radius: 50%;
+  transition: left 0.3s;
+}
+
+.toggle-circle.left {
+  left: 2px;
+}
+
+.toggle-circle.right {
+  left: calc(100% - 18px);
+}
+
+
+.buttons{
+    display: flex;
+    margin-top: 4rem;
+    gap:10rem;
+}
+
+.Yearly-content{
+    display: flex;
+    gap: 0.8rem;
+}
+  
+.yearly-item1 h5 , .yearly-item2 h5 , .yearly-item3 h5 {
+    font-size: 0.8rem;
+    color: #082856;
+    font-weight: 600;
+    margin-top: 1.7rem;
+    margin-left: 0.7rem;
+}
+  
+.yearly-item1,.yearly-item2, .yearly-item3 {
+  border-radius: 0.5rem;
+  height: 9rem;
+  width: 6.7rem;
+  margin-top: 2rem;
+}
+
+.yearly-item1{
+  border: 0.1rem solid #7872AD;
+  background-color: #F8F9FE;
+}
+
+.yearly-item2 , .yearly-item3{
+  border: 0.001rem solid grey;
+}
+
+.yearly-p1 , .yearly-p2 , .yearly-p3{
+  font-size: 0.7rem;
+  margin-left: 0.7rem;
+  font-weight: 500;
+  color:#001f5c;
+}
+
+
+
+  .button1{
+    height: 2.5rem;
+    width: 4rem;
+    border-radius: 0.5rem;
+    /* opacity: 3; */
+    font-size: 0.75rem;
+    line-height: 1rem;
+    opacity: 0.3;
+    font-weight: 700;
+    /* margin-left: 3rem; */
+  }
+
+
+.button2{
+    height: 2.5rem;
+    width: 6rem;
+    color:white;
+    background-color: #082856;
+    border-radius: 0.5rem;
+    font-weight: 600;
+    margin-left: 1.5rem;
+    font-size: 0.9rem;
+    /* margin-top: 3rem; */
+}

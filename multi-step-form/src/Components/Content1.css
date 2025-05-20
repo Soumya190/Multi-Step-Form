@@ -1,0 +1,40 @@
+
+
+.choose{
+    width: 22rem;
+    height: 3rem;
+    margin-top: 1.8rem;
+    background-color: #F8F9FE;
+    display: flex;
+    gap:3rem;
+}
+
+.pattern{
+    width: 2.5rem;
+    height: 1.3rem;
+    position: relative;
+    background-color:#062856;
+    margin-top: 0.7rem;
+    border-radius: 1rem;
+}
+
+.circle{
+    width: 0.8rem;
+    height: 0.8rem;
+    background-color: white;
+    border-radius: 2rem;
+    margin-top: 0.2rem;
+    margin-left: 0.2rem;
+}
+
+.Monthly p{
+    color:#233750;
+    margin-left: 2.3rem;
+    margin-top: 0.5rem;
+}
+
+.Yearly p{
+    color:#A6A6B0;
+    margin-top: 0.5rem;
+}
+

@@ -1,0 +1,285 @@
+.yearlyfinishPage-container{
+    background-color: #EEF5FF;
+    width:75%;
+    height: 41rem;
+    border-width:2px;
+    border-color:#EEF5FF;
+    margin-top: 2.5rem;
+    margin-left: 12rem;
+    margin-right: 12rem;
+    margin-bottom: 2.5rem;
+}
+
+
+.yearlyfinishPage-contain{
+    background-color: #FFFFFF;
+    height: 30rem;
+    width:45rem;
+    padding:0.5rem;
+    margin-left: 13rem;
+    margin-right: 13rem;
+    border-radius: 0.8rem;
+    margin-top: 5rem;
+    display: flex;
+    gap: 5rem;
+}
+
+.yearlyfinishPage-h1{
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    margin-top: 1.5rem;
+    text-align: left;
+    color:#082856;
+    margin-left: 5rem;
+    width:10rem;
+}
+
+.yearlyfinishPage-p{
+    text-align: left;
+    font-size: 0.85rem;
+    line-height: 1rem;
+    opacity: 0.3;
+    font-weight: 600;
+    margin-top: 0.4rem;
+    width: 25rem;
+    margin-left: 5rem;
+}
+
+.yearlyfinishPage-box{
+    display: flex;
+    flex-direction: column;
+    height: 15rem;
+    width: 20rem;
+    margin-top: 2rem;
+}
+
+.yearlyfinishPage-box1{
+    height: 4.7rem;
+    width: 20.5rem;
+    background-color: #F8F9FE;
+    border-radius: 0.4rem;
+    /* border: 0.01rem solid #7873AC; */
+    margin-left: 5rem;
+    display: flex;
+}
+
+.yearlycontent-p1{
+    font-size: 0.85rem;
+    font-weight: 600;
+    color:#082856;
+    margin-left: 1rem;
+    margin-top: 0.8rem;
+}
+
+.yearlycontent-a{
+    font-size: 0.75rem;
+    font-weight: 600;
+    margin-left: 1rem;
+    opacity:0.4;
+}
+
+.hr{
+    width: 20rem;
+    margin-top: 0.9rem;
+}
+
+.yearlycharge1-p1{
+    font-size: 0.85rem;
+    font-weight: 700;
+    color:#082856;
+    margin-top: 1.5rem;
+    margin-left: -3rem;
+    width:4rem;
+}
+
+.yearlyfinishPage-box2{
+    height: 4.9rem;
+    width: 20.5rem;
+    background-color: #F8F9FE;
+    border-radius: 0.4rem;
+    /* border: 0.01rem solid #7873AC; */
+    margin-left: 5rem;
+    padding:0.3rem;
+}
+
+.yearlyfinishPagebox2content1{
+    display: flex;
+    gap:0.5rem;
+}
+
+.yearlyfinishPagebox2content2{
+    display: flex;
+    gap:0.5rem;
+}
+
+
+
+.yearlyfinishPagebox2-p1{
+    opacity:0.3;
+    font-size: 0.75rem;
+    font-weight: 600;
+    margin-top: 0.5rem;
+    margin-left: 0.8rem;
+    width: 9rem;
+}
+
+.yearlycharge2-p1{
+    margin-left: 7rem;
+    font-size: 0.75rem;
+    font-weight: 400;
+    color:#232C3D;
+    margin-top: 0.5rem;
+    opacity: 0.9;
+    width:4rem;
+}
+
+.yearlyfinishPagebox2-p2{
+    opacity:0.3;
+    font-size: 0.75rem;
+    font-weight: 600;
+    margin-top: 0.5rem;
+    margin-left: 0.8rem;
+    width: 9rem;
+}
+
+.yearlycharge2-p2{
+    margin-left: 7rem;
+    font-size: 0.75rem;
+    font-weight: 400;
+    color:#232C3D;
+    margin-top: 0.5rem;
+    width:4rem;
+}
+
+.yearlyfinishPage-box3{
+    height: 4.9rem;
+    width: 20.5rem;
+    border-radius: 0.4rem;
+    margin-left: 5rem;
+    display: flex;
+}
+
+.yearlyfinishPagebox3-p1{
+    opacity:0.3;
+    font-size: 0.75rem;
+    font-weight: 600;
+    margin-top: 1rem;
+    margin-left: 0.8rem;
+    width: 9rem;
+}
+
+.yearlycharge3-p2{
+    margin-left: 5.5rem;
+    font-size: 0.90rem;
+    font-weight: 700;
+    color:#6156DD;
+    margin-top: 1rem;
+    width:4rem;
+}
+
+.previousPage{
+    height: 2.5rem;
+    width: 6rem;
+    border-radius: 0.5rem;
+    opacity: 3;
+    font-size: 0.75rem;
+    line-height: 1rem;
+    opacity: 0.3;
+    font-weight: 700;
+    margin-left: 3rem;
+}
+
+
+
+.nextPage{
+    height: 2.5rem;
+    width: 6rem;
+    color:white;
+    background-color: #082856;
+    border-radius: 0.5rem;
+    font-weight: 600;
+    margin-left: 10rem;
+    font-size: 0.9rem;
+    margin-top: 3rem;
+}
+
+.icon3-change3{
+    position: absolute;
+    top: 8.8rem;
+    left: 1.5rem;
+    color:#483EFF;
+    border-color: white;
+    border-width: 0.07rem;
+    border-radius: 9999px;
+    height: 1.75rem;
+    width: 1.75rem;
+}
+
+.icon3-content-change3{
+    position: absolute;
+    color:white;
+    top: 9rem;
+    left: 2.2rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.side-content5-change3{
+    position: absolute;
+    top: 8.8rem;
+    left: 4rem;
+    font-size: 0.6rem;
+    font-weight: 600;
+    color:#A9A6E4;
+}
+
+.side-content6-change3{
+    position: absolute;
+    top: 9.63rem;
+    left: 4rem;
+    font-size: 0.75rem;
+    line-height: 1rem;
+    font-weight: 700;
+    color:white;
+}
+
+.icon4-change3{
+    position: absolute;
+    top: 12.3rem;
+    left: 1.5rem;
+    color:#BDE1FE;
+    border-color: #BDE1FE;
+    border-width: 0.07rem;
+    border-radius: 9999px;
+    height: 1.75rem;
+    width: 1.75rem;
+}
+
+.icon4-content-change3{
+    position: absolute;
+    color:black;
+    top: 12.5rem;
+    left: 2.2rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.side-content7-change3{
+    position: absolute;
+    top: 12.4rem;
+    left: 4rem;
+    font-size: 0.6rem;
+    font-weight: 600;
+    color:#A9A6E4;
+}
+
+.side-content8-change3{
+    position: absolute;
+    left: 4rem;
+    font-size: 0.75rem;
+    line-height: 1rem;
+    font-weight: 700;
+    top: 13.2rem;
+    color:white;
+}

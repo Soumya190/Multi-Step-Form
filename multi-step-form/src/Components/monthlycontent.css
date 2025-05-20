@@ -1,0 +1,317 @@
+
+
+.monthly-container{
+    background-color: #EEF5FF;
+    width:75%;
+    height: 41rem;
+    border-width:2px;
+    border-color:#EEF5FF;
+    margin-top: 2.5rem;
+    margin-left: 12rem;
+    margin-right: 12rem;
+    margin-bottom: 2.5rem;
+}
+
+.monthly-contain{
+    background-color: #FFFFFF;
+    height: 30rem;
+    width:45rem;
+    padding:0.5rem;
+    margin-left: 13rem;
+    margin-right: 13rem;
+    border-radius: 0.8rem;
+    margin-top: 5rem;
+    display: flex;
+    gap: 5rem;
+}
+
+
+.monthly-h1{
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    margin-top: 1.5rem;
+    text-align: left;
+    color:#082856;
+    width:10rem;
+}
+
+.monthly-p{
+    text-align: left;
+    font-size: 0.85rem;
+    line-height: 1rem;
+    opacity: 0.3;
+    font-weight: 600;
+    margin-top: 0.5rem;
+    width: 20rem;
+}
+
+
+
+.icon2-change2{
+    position: absolute;
+    top: 5.5rem;
+    left: 1.5rem;
+    color:#483EFF;
+    border-color: white;
+    border-width: 0.07rem;
+    border-radius: 9999px;
+    height: 1.75rem;
+    width: 1.75rem;
+}
+
+.icon2-content-change2{
+    position: absolute;
+    color:white;
+    top: 5.7rem;
+    left: 2.2rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.side-content3-change2{
+    position: absolute;
+    top: 5.5rem;
+    left: 4rem;
+    font-size: 0.6rem;
+    font-weight: 600;
+    color:#A9A6E4;
+}
+
+.side-content4-change2{
+    position: absolute;
+    left: 4rem;
+    font-size: 0.75rem;
+    line-height: 1rem;
+    font-weight: 700;
+    top: 6.3rem;
+    color:white;
+}
+
+.icon3-change2{
+    position: absolute;
+    top: 8.8rem;
+    left: 1.5rem;
+    height: 1.7rem;
+    border-width: 0.07rem;
+    border-radius: 9999px;
+    border-color: #BDE1FE;
+    width: 1.7rem;
+    color:#BDE1FE;
+}
+
+.icon3-content-change2{
+    position: absolute;
+    color:black;
+    top: 9rem;
+    left: 2.2rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.side-content5-change2{
+    position: absolute;
+    top: 8.8rem;
+    left: 4rem;
+    font-size: 0.6rem;
+    font-weight: 600;
+    color:#A9A6E4;
+}
+
+.side-content6-change2{
+    position: absolute;
+    left: 4rem;
+    font-size: 0.75rem;
+    line-height: 1rem;
+    top: 9.63rem;
+    color:white;
+    font-weight: 700;
+}
+
+
+
+.monthly-box1 h2{
+    font-weight: 700;
+    font-size: 0.8rem;
+    line-height: 2rem;
+    color:#082856;
+    margin-left: 3rem;
+    margin-top: -1rem;
+    margin-bottom: -0.3rem;
+}
+
+.monthly-box1 p{
+    text-align: left;
+    font-size: 0.75rem;
+    line-height: 1rem;
+    opacity: 0.3;
+    font-weight: 700;
+    margin-left: 3rem;
+}
+
+.monthly-box1-p2{
+    position: relative;
+    left:13.5rem;
+    top:-1.6rem;
+    color:#615ABE;
+}
+
+.square1{
+    position: relative;
+    top: 1.1rem;
+    left: 1rem;
+    color: white;
+    border: 0.09rem solid #E7E6E9;
+    height: 0.9rem;
+    width: 1rem;
+    background-color: #E7E6E9;
+    border-radius: 0; 
+    transition: background-color 0.3s, border 0.3s, border-radius 0.3s;
+}
+
+.monthly-box2 h2{
+    font-weight: 700;
+    font-size: 0.8rem;
+    line-height: 2rem;
+    color:#082856;
+    margin-left: 3rem;
+    margin-top: -1rem;
+    margin-bottom: -0.3rem;
+}
+
+.monthly-box2 p{
+    text-align: left;
+    font-size: 0.75rem;
+    line-height: 1rem;
+    opacity: 0.3;
+    font-weight: 700;
+    margin-left: 3rem;
+}
+
+.monthly-box2-p2{
+    position: relative;
+    left:13.5rem;
+    top:-1.6rem;
+    color:#4940F0;
+    font-weight: 900;
+}
+
+.square2{
+    position: relative;
+    top: 1.1rem;
+    left: 1rem;
+    color: white;
+    border: 0.09rem solid #E7E6E9;
+    height: 0.9rem;
+    width: 1rem;
+    background-color: #E7E6E9;
+    border-radius: 0; 
+    transition: background-color 0.3s, border 0.3s, border-radius 0.3s;
+}
+
+/* .check2{
+    height: 0.8rem;
+    width: 0.8rem;
+    position: relative;
+    top:-0.4rem;
+    left:0.1rem;
+    color:white;
+} */
+
+
+.monthly-box3 h2{
+    font-weight: 700;
+    font-size: 0.8rem;
+    line-height: 2rem;
+    color:#082856;
+    margin-left: 3rem;
+    margin-top: -1rem;
+    margin-bottom: -0.3rem;
+}
+
+.monthly-box3 p{
+    text-align: left;
+    font-size: 0.75rem;
+    line-height: 1rem;
+    opacity: 0.3;
+    font-weight: 700;
+    margin-left: 3rem;
+}
+
+.monthly-box3-p2{
+    position: relative;
+    left:13.5rem;
+    top:-1.6rem;
+    font-weight: 500;
+    color:#7872AB;
+}
+
+.square3{
+    position: relative;
+    top: 1.1rem;
+    left: 1rem;
+    color: white;
+    border: 0.09rem solid #E7E6E9;
+    height: 0.9rem;
+    width: 1rem;
+    background-color: #E7E6E9;
+    border-radius: 0; 
+    transition: background-color 0.3s, border 0.3s, border-radius 0.3s;
+}
+
+.monthly-box{
+    display: flex;
+    flex-direction: column;
+    height: 15rem;
+    width: 20rem;
+    margin-top: 2rem;
+    gap:1rem;
+}
+
+.monthly-box1{
+    height: 4.1rem;
+    width: 20.5rem;
+    background-color: #F8F9FE;
+    border-radius: 0.4rem;
+    /* border: 0.09rem solid #7872AB; */
+}
+
+
+.monthly-box2{
+    height: 4.1rem;
+    width: 20.5rem;
+    background-color: #F8F9FE;
+    border-radius: 0.4rem;
+    /* border: 0.09rem solid #7872AB; */
+}
+
+.monthly-box3{
+    height: 4.1rem;
+    width: 20.5rem;
+    background-color: #F8F9FE;
+    border-radius: 0.4rem;
+    /* border:0.09rem solid #E7E6E9; */
+}
+
+.prev{
+    height: 2.5rem;
+    width: 4rem;
+    border-radius: 0.5rem;
+    opacity: 3;
+    font-size: 0.75rem;
+    line-height: 1rem;
+    opacity: 0.3;
+    font-weight: 700;
+}
+
+.next{
+    height: 2.5rem;
+    width: 6rem;
+    color:white;
+    background-color: #082856;
+    border-radius: 0.5rem;
+    font-weight: 600;
+    margin-left: 10.2rem;
+    font-size: 0.9rem;
+    margin-top: 3rem;
+}

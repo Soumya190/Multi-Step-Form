@@ -1,0 +1,45 @@
+.LastPage-container{
+    background-color: #EEF5FF;
+    width:75%;
+    height: 41rem;
+    border-width:2px;
+    border-color:#EEF5FF;
+    margin-top: 2.5rem;
+    margin-left: 12rem;
+    margin-right: 12rem;
+    margin-bottom: 2.5rem;
+}
+
+.LastPage-contain{
+    background-color: #FFFFFF;
+    height: 30rem;
+    width:45rem;
+    padding:0.5rem;
+    margin-left: 13rem;
+    margin-right: 13rem;
+    border-radius: 0.8rem;
+    margin-top: 5rem;
+    display: flex;
+    gap: 5rem;
+}
+
+.LastPage-contain h2{
+    font-weight: 700;
+    font-size: 1.6rem;
+    line-height: 2rem;
+    margin-top: 1rem;
+    color:#082856;
+    width:10rem;
+    margin-left: 11rem;
+}
+
+.LastPage-contain p{
+    text-align: left;
+    font-size: 0.82rem;
+    line-height: 1rem;
+    opacity: 0.4;
+    font-weight: 500;
+    margin-top: 0.5rem;
+    margin-left: 4rem;
+    width: 24rem;
+}
